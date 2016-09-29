@@ -1,1 +1,8 @@
-# bitrix_component_dummy
+# Dummy component for bitrix
+
+$APPLICATION->IncludeComponent(
+    "bitrix:saxum.dummy",
+    "",
+    Array(
+    )
+);
